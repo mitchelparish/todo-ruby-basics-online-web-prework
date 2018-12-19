@@ -20,6 +20,7 @@ def greeting(thisone, thatone)
 end
 
 def return_a_value
+  Nice
 
 end
 
