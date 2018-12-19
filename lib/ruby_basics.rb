@@ -13,7 +13,9 @@ def argue(name)
 
 end
 
-def greeting
+def greeting(thisone, thatone)
+  "#{thisone}"
+  "#{thatone}"
 
 end
 
