@@ -20,7 +20,7 @@ def greeting(thisone, thatone)
 end
 
 def return_a_value
-  puts "nice"
+  puts "Nice"
 
 end
 
